@@ -1,3 +1,3 @@
-### Projeto livre para copiar e usar ###
+### Projeto baseado em sites de Pet Shop ###
 
 
